@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RfidKotlinMgr" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="colorOnPrimary">@color/onPrimary_light</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer_light</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainer_light</item>
+        <item name="colorSecondary">@color/secondary_light</item>
+        <item name="colorOnSecondary">@color/onSecondary_light</item>
+        <item name="colorTertiary">@color/tertiary_light</item>
+        <item name="colorOnTertiary">@color/onTertiary_light</item>
+    </style>
+
+    <style name="Theme.RfidKotlinMgr" parent="Base.Theme.RfidKotlinMgr" />
+</resources>

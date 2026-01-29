@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warm Palette Light -->
+    <color name="primary_light">#8B4100</color>
+    <color name="onPrimary_light">#FFFFFF</color>
+    <color name="primaryContainer_light">#FFDBC7</color>
+    <color name="onPrimaryContainer_light">#2D1600</color>
+    <color name="secondary_light">#755846</color>
+    <color name="onSecondary_light">#FFFFFF</color>
+    <color name="tertiary_light">#606134</color>
+    <color name="onTertiary_light">#FFFFFF</color>
+
+    <!-- Warm Palette Dark -->
+    <color name="primary_dark">#FFB68E</color>
+    <color name="onPrimary_dark">#532200</color>
+    <color name="primaryContainer_dark">#6E3100</color>
+    <color name="onPrimaryContainer_dark">#FFDBC7</color>
+    <color name="secondary_dark">#E4BFA9</color>
+    <color name="onSecondary_dark">#422B1B</color>
+    <color name="tertiary_dark">#C9C994</color>
+    <color name="onTertiary_dark">#31320A</color>
+</resources>

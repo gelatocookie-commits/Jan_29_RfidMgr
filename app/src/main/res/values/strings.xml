@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RfidMgrK</string>
+    <string name="title_reader">EMC API:</string>
+    <string name="status_ready">Status: Ready</string>
+    <string name="btn_start_scan">Start Scan</string>
+    <string name="btn_stop">Stop Scan</string>
+    <string name="found_readers">RFID SDK API retrun\n reader.serialNumber:\n</string>
+    <string name="connected_info">RFID SDK API return\n ReaderCapabilities.serialNumber:\n</string>
+</resources>
